@@ -1,0 +1,46 @@
+﻿注意:
+以下の文字列をbase64デコードするとそれぞれの問題のflagを見ることができます．
+答えを見る前に問題を解きたい方はご注意ください．
+
+Caution:
+If you base64-decode the following string, you will get the flag of each challenge.
+Be careful if you want to solve the challenges before looking at the flags.
+
+
+[Misc 1] Welcome
+bjViMjAxOXN1bW1lcnt3ZWxjb21lfQ==
+
+[Misc 4] Frustrating
+bjViMjAxOXN1bW1lcntBcmVfeW91X3BhdGllbnQ/fQ==
+
+[Misc 4] Pip Count
+bjViMjAxOXN1bW1lcnsxNTcxNTcwNzIwNjExNTcwNjcyMTAwNTExMzgxNTkwNTIwNTQwODIwODQw
+ODkwNTYwNzgwNzgyOTcyOTd9
+
+[Misc 4] Sakura
+bjViMjAxOXN1bW1lcntzb21laXlvc2hpbm99
+
+[Misc 9] Nasty Regexp
+KGUuZy4pIG41YjIwMTlzdW1tZXJ7dG9reW9rYW5kYWFraWhhYmFyYX0=
+
+[Misc 9] Numeral System V
+bjViMjAxOXN1bW1lcntUMUtLVFIxMEtSSzAuSzBUfQ==
+
+[Misc 9] Dominoes
+bjViMjAxOXN1bW1lcnsxIHNldCBvZiBkb3VibGUtNiBkb21pbm8gY29uc2lzdHMgb2YgMjggdGls
+ZXMufQ==
+
+[Misc 9] Spiral
+bjViMjAxOXN1bW1lcnszNTUvMTEzfQ==
+
+[Misc 9] Translation
+bjViMjAxOXN1bW1lcntOb3QgdG8gYmUgY29uZnVzZWQgd2l0aCBQRUFSTC59
+
+[Misc 14] Triple Loop
+bjViMjAxOXN1bW1lcntQaWVycmVfZGVfRmVybWF0fQ==
+
+[Misc 14] Iterated Function
+bjViMjAxOXN1bW1lcns1NzMxNzgtMi02Mjg0MzIwMjEwMzU4MjI4MjU4MjU4MjJ9
+
+[Misc 14] Slow Query
+bjViMjAxOXN1bW1lcnttYXRjaGVxdWl0eXRhYmxlfQ==

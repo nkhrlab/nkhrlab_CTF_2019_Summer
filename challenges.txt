@@ -1,0 +1,59 @@
+﻿[Misc 1] Welcome
+Welcome to nkhrlab CTF 2019 Summer. The answer for this challenge is here: 
+<pre>n5b2019summer{welcome}</pre>
+
+
+[Misc 4] Frustrating
+Wait.
+File: files/frustrating
+
+
+[Misc 4] Pip Count
+Calculate pip count. There is no penalty for looking at hints.
+Hint: Don't forget to look at checkers on the bar. One checker on the bar is equivalent to 25 pips.
+File: pip_count.rb
+
+
+[Misc 4] Sakura
+Listen.
+File: files/sakura.mid
+
+
+[Misc 9] Nasty Regexp
+Find a string that matches this regular expression.
+<pre>^n5b2019summer\{(?=...{11}[hurt])(?=..{14}[bill])(?=..{16}[player])(?=..{7}[deed])(?=.{10}.[luck])(?=.(..).\1)(?=.{13}[while])(?=.{7}[inch])(?=[tomb])(?=.{15}[butcher])(?=..(.).{8}\2)(?=.{17}[robust])(?=.{11}[kidney])(?=.{12}[inference])(?=.{6}(.)..\3\3...\3.\3.\3)(?=...[yarn])(?=.{3}[yield])(?=.{7}[knot])(?=.{8}[and])(?=.{12}[aim])[a-z]{19}\}$</pre>
+
+
+[Misc 9] Numeral System V
+Numeral systems are interesting.
+File: files/numeral_system_v_2.txt
+
+
+[Misc 9] Dominoes
+Can you find the flag?
+File: files/dominoes.png
+
+
+[Misc 9] Spiral
+What is this?
+File: files/spiral.png
+
+
+[Misc 9] Translation
+`y/.../.../` is cool.
+File: files/translation.zip
+
+
+[Misc 14] Triple Loop
+It's slow.
+File: files/triple_loop.rb
+
+
+[Misc 14] Iterated Function
+Get a perfect answer.
+File: files/iterated_function.pdf
+
+
+[Misc 14] Slow Query
+Accelerate.
+File: files/slow_query.pg_dump
